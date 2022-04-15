@@ -1,6 +1,8 @@
+# Multilingual fine-tuning for Grammatical Error Correction
+
 This repo contains the code used for experiments from paper "Multilingual fine-tuning for Grammatical Error Correction" (https://doi.org/10.1016/j.eswa.2022.116948).
 
-To run the scripts you need to acquire the following data sets):
+To run the scripts you need to acquire the following data sets:
 
  * ARAB (ar): https://camel.abudhabi.nyu.edu/qalb-shared-task-2015/
  * CHECH (ch): https://github.com/adrianeboyd/boyd-wnut2018#download-data
